@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "1_Japan_Tokyo.jpg"  # 修改"profile.png"
+  avatar           : "2_England_London.jpg"  # "1_Japan_Tokyo.jpg"  # 修改"profile.png"
   name             : "Hanzhong Tan"  # 修改"Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Master, CS, Hubei Minzu University"  # 修改"Short biography for the left-hand sidebar"
