@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 #permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Authors: **Hanzhong Tan**; Shuangbing Wen; Li Zhu; Haifeng Huang; Lingfeng Zhang; Jun Li'  # 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2026-5-7
+date: 2025-12-22
 venue: 'ICARM 2025 (CAA-A)'
 paperurl: 'https://liangjiaxiaoqi.github.io/files/2-HEFT.pdf'
 bibtexurl: 'https://liangjiaxiaoqi.github.io/files/2-HEFT.bib'
