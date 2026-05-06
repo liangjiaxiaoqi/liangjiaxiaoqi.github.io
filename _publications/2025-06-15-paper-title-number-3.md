@@ -3,7 +3,7 @@ title: "基于U-Net和离散小波变换的鲁棒音频水印方法"
 collection: publications
 category: manuscripts
 #permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'Authors: 文双兵; 张齐山; 谭寒钟; 胡涛; 李军'#'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'Authors: 文双兵; 张齐山; **谭寒钟**; 胡涛; 李军'#'This paper is about the number 3. The number 4 is left for future work.'
 date: 2025-06-15
 venue: '网络空间安全科学学报'
 #slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
