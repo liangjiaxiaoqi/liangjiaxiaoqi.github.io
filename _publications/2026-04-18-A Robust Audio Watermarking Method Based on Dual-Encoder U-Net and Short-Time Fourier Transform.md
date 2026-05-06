@@ -3,8 +3,8 @@ title: "A Robust Audio Watermarking Method Based on Dual-Encoder U-Net and Short
 collection: publications
 category: manuscripts
 #permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Authors: Li Zhu; Wei Liu; **Hanzhong Tan**; Tao Hu'  # 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2024-04-09
+excerpt: 'Authors: Shuangbing Wen; **Hanzhong Tan**; Lingfeng Zhang; Jun Li; Tao Hu'  # 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2026-04-18
 venue: 'Cyber Security and Applications'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'https://link.springer.com/content/pdf/10.1007/s40747-024-01425-z.pdf'
