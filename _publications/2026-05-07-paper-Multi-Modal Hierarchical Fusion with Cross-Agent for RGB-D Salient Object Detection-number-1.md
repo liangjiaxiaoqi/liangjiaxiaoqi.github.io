@@ -3,7 +3,7 @@ title: "Multi-Modal Hierarchical Fusion with Cross-Agent for RGB-D Salient Objec
 collection: publications
 category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2026-5-7
 venue: 'ICASSP 2026 (CCF-B)'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
