@@ -3,8 +3,8 @@ title: "HEFT: Hierarchical Enhanced Fusion Transformer for RGB-D Salient Object 
 collection: publications
 category: conferences
 #permalink: /publication/2009-10-01-paper-title-number-1
-#excerpt: 'Authors: **Hanzhong Tan**; Shuangbing Wen; Li Zhu; Haifeng Huang; Lingfeng Zhang; Jun Li'  # 'This paper is about the number 1. The number 2 is left for future work.'
-excerpt: 'Authors: **Hanzhong Tan**; Shuangbing Wen; Li Zhu; Haifeng Huang; Lingfeng Zhang; Jun Li<br><a href="https://github.com/liangjiaxiaoqi/你的代码地址">Code</a>'
+excerpt: 'Authors: **Hanzhong Tan**; Shuangbing Wen; Li Zhu; Haifeng Huang; Lingfeng Zhang; Jun Li'  # 'This paper is about the number 1. The number 2 is left for future work.'
+#excerpt: 'Authors: **Hanzhong Tan**; Shuangbing Wen; Li Zhu; Haifeng Huang; Lingfeng Zhang; Jun Li<br><a href="https://github.com/liangjiaxiaoqi/你的代码地址">Code</a>'
 date: 2025-12-22
 venue: 'ICARM 2025 (CAA-A)'
 paperurl: 'https://liangjiaxiaoqi.github.io/files/2-HEFT.pdf' 
