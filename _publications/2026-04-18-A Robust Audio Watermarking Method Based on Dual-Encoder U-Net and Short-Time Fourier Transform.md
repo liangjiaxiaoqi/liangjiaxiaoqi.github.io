@@ -7,7 +7,7 @@ excerpt: 'Authors: Shuangbing Wen; **Hanzhong Tan**; Lingfeng Zhang; Jun Li; Tao
 date: 2026-04-18
 venue: 'Cyber Security and Applications'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-#paperurl: 'https://link.springer.com/content/pdf/10.1007/s40747-024-01425-z.pdf'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S2772918426000068?via%3Dihub'  #'https://link.springer.com/content/pdf/10.1007/s40747-024-01425-z.pdf'
 #bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
