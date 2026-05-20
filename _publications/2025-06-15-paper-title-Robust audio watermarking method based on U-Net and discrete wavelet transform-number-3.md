@@ -7,7 +7,7 @@ excerpt: 'Authors: Shuangbing Wen; Qishan Zhang; **Hanzhong Tan**; Tao Hu; Jun L
 date: 2025-06-15
 venue: 'Journal of Cybersecurity'
 #slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-#paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://academicpages.github.io/files基于U-Net和离散小波变换的鲁棒音频水印方法_文双兵.pdf'  #'https://academicpages.github.io/files/paper3.pdf'
 #citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
