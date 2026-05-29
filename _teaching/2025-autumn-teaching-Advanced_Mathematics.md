@@ -3,7 +3,7 @@ title: "Advanced Mathematics"
 collection: teaching
 type: "CS"  #"Undergraduate course"
 permalink: /teaching/2025-autumn-teaching-Advanced_Mathematics
-venue: "Hubei University for Nationalities"
+venue: "Hubei Enshi College"
 date: 2025-09-01
 #location: "City, Country"
 ---
