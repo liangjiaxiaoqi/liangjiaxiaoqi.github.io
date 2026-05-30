@@ -1,3 +1,4 @@
+<!--  这是注释
 ---
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
@@ -54,3 +55,44 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
+
+
+
+
+
+
+
+---
+layout: homepage
+author_profile: true
+---
+
+## 关于我 / About Me
+
+我是**谭寒钟 (Hanzhong Tan)**，目前是湖北民族大学 (Hubei Minzu University) 的硕士研究生，导师为 [导师姓名] 教授。我的主要研究方向为**计算机视觉 (Computer Vision)**、**多模态学习 (Multi-modal Learning)** 以及**显著性目标检测 (Salient Object Detection)**。
+
+I am **Hanzhong Tan**, a Master's student at Hubei Minzu University. My research interests include Computer Vision, Multi-modal Learning, and Salient Object Detection.
+
+---
+
+## 最新动态 / News
+* **[2026-03]** 论文 "Hierarchical Multi-attention Transformer with Cross-Agent for RGB-D Salient Object Detection" 被 **IEEE ICASSP 2026** 录用！
+* **[2025-07]** 论文 "Hierarchical Enhanced Fusion Transformer (HEFT)" 发表于 **IEEE ICARM 2025**（江苏常州）。
+
+---
+
+## 研究方向 / Research Interests
+* **多模态信息融合 (Multi-modal Fusion):** 专注于 RGB-D 和 RGB-T 数据的特征融合，特别是基于 Transformer 架构与层次化注意力机制的设计。
+* **脑电信号解码 (EEG Decoding):** 基于频域信息的脑机接口（BCI）研究，开发了 Frequency-Gated Prompting (FGPT) 等方法。
+* **场景理解 (Scene Understanding):** 致力于将显著性目标检测技术应用于船舶航行场景理解等实际应用中。
+
+---
+
+## 学术成果 / Selected Publications
+
+* **Hierarchical Multi-attention Transformer with Cross-Agent for RGB-D Salient Object Detection** **H. Tan**, S. Wen, Y. Zhang, L. Zhu, etc.  
+  *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2026. (Accepted)
+
+* **Hierarchical Enhanced Fusion Transformer (HEFT) for Multi-Modal Interaction** **H. Tan**, S. Wen, etc.  
+  *IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)*, 2025.
