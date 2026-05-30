@@ -7,6 +7,41 @@ redirect_from:
   - /about.html
 ---
 
+I am **Hanzhong Tan**, currently a Master's student specializing in Computer Science and Technology at Hubei Minzu University. My research interests mainly focus on **Computer Vision**, **Multi-modal Learning**, and **Salient Object Detection (SOD)**.
+
+---
+
+News
+======
+* **[2026-03]** Our paper "Hierarchical Multi-attention Transformer with Cross-Agent for RGB-D Salient Object Detection" has been accepted by **IEEE ICASSP 2026**!
+* **[2025-07]** Our paper "Hierarchical Enhanced Fusion Transformer (HEFT)" was published in **IEEE ICARM 2025** (Changzhou, Jiangsu).
+
+Research Interests
+======
+* **Multi-modal Information Fusion:** Features fusion strategies for RGB-D and RGB-T data, particularly focusing on Transformer-based architectures and hierarchical attention mechanisms.
+* **EEG Signal Decoding:** Brain-computer interface (BCI) research utilizing frequency-domain characteristics, with developments such as Frequency-Gated Prompting (FGPT).
+* **Scene Understanding:** Applying multi-modal collaborative representation learning and salient object detection techniques to ship navigation scene understanding.
+
+Selected Publications
+======
+
+* **Hierarchical Multi-attention Transformer with Cross-Agent for RGB-D Salient Object Detection** **H. Tan**, S. Wen, Y. Zhang, L. Zhu, etc.  
+  *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2026. (Accepted)
+
+* **Hierarchical Enhanced Fusion Transformer (HEFT) for Multi-Modal Interaction** **H. Tan**, S. Wen, etc.  
+  *IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)*, 2025.
+
+
+<!--  这是注释
+---
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
 我是**谭寒钟 (Hanzhong Tan)**，目前是湖北民族大学 (Hubei Minzu University) 计算机科学与技术专业的硕士研究生。我的主要研究方向为**计算机视觉 (Computer Vision)**、**多模态学习 (Multi-modal Learning)** 以及**显著性目标检测 (Salient Object Detection)**。
 
 I am **Hanzhong Tan**, a Master's student at Hubei Minzu University. My research interests include Computer Vision, Multi-modal Learning, and Salient Object Detection.
@@ -32,6 +67,8 @@ I am **Hanzhong Tan**, a Master's student at Hubei Minzu University. My research
 
 * **Hierarchical Enhanced Fusion Transformer (HEFT) for Multi-Modal Interaction** **H. Tan**, S. Wen, etc.  
   *IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)*, 2025.
+-->
+
 
 <!--  这是注释
 ---
