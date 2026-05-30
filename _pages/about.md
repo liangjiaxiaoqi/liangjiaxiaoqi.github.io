@@ -16,11 +16,13 @@ News
 * **[2026-03]** Our paper "Hierarchical Multi-attention Transformer with Cross-Agent for RGB-D Salient Object Detection" has been accepted by **IEEE ICASSP 2026**!
 * **[2025-07]** Our paper "Hierarchical Enhanced Fusion Transformer (HEFT)" was published in **IEEE ICARM 2025** (Changzhou, Jiangsu).
 
+<!--  这是注释
 Research Interests
 ======
 * **Multi-modal Information Fusion:** Features fusion strategies for RGB-D and RGB-T data, particularly focusing on Transformer-based architectures and hierarchical attention mechanisms.
 * **EEG Signal Decoding:** Brain-computer interface (BCI) research utilizing frequency-domain characteristics, with developments such as Frequency-Gated Prompting (FGPT).
 * **Scene Understanding:** Applying multi-modal collaborative representation learning and salient object detection techniques to ship navigation scene understanding.
+-->
 
 Selected Publications
 ======
