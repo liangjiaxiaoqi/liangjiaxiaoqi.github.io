@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Master, CS, Hubei Minzu University"  # 修改"Short biography for the left-hand sidebar"
   location         : "Hubei/Chongqing" # 修改"Earth"
-  employer         : "Red Brick University"
+  employer         : "Hubei Minzu University"#"Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
 
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"#原始有
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app"#原始有 # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
