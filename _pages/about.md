@@ -13,8 +13,8 @@ I am Hanzhong Tan (谭寒钟), currently a Master's student specializing in Comp
 
 News
 ======
-* **[2026-03]** Our paper "Multi-Modal Hierarchical Fusion with Cross-Agent for RGB-D Salient Object Detection" has been accepted by <font color="red">IEEE ICASSP 2026</font>!
-* **[2025-08]** Our paper "HEFT: Hierarchical Enhanced Fusion Transformer for RGB-D Salient Object Detection" was published in <font color="red">IEEE ICARM 2025</font> (Portsmouth, United Kingdom).
+* **[2026-03]** Our paper "Multi-Modal Hierarchical Fusion with Cross-Agent for RGB-D Salient Object Detection" has been accepted by <font color="red">*IEEE ICASSP 2026*</font>!
+* **[2025-08]** Our paper "HEFT: Hierarchical Enhanced Fusion Transformer for RGB-D Salient Object Detection" was published in <font color="red">*IEEE ICARM 2025*</font> (Portsmouth, United Kingdom).
 
 <!--  这是注释
 Research Interests
