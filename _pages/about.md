@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Hanzhong Tan (谭寒钟), currently a Master's student majoring in Computer Science and Technology at Hubei Minzu University. I completed my undergraduate studies in Information Engineering, during which my coursework and projects primarily centered around embedded systems. My passion for Artificial Intelligence was sparked when I first worked with development boards integrated with Convolutional Neural Network (CNN) algorithms, which subsequently inspired me to pivot toward the AI field for my graduate studies. Currently, my research interests focus on Computer Vision, Multi-modal Learning, Brain-Computer Intelligence, and AI for Science (AI4S). Outside of my academic pursuits, I am a sports enthusiast with a particular love for basketball.
+I am Hanzhong Tan (谭寒钟), currently a Master's student majoring in Computer Science and Technology at Hubei Minzu University. I completed my undergraduate studies in Information Engineering, during which my coursework and projects primarily centered around embedded systems. My passion for Artificial Intelligence was sparked when I first worked with development boards integrated with Convolutional Neural Network (CNN) algorithms, which subsequently inspired me to pivot toward the AI field for my graduate studies.
+
+Currently, my research interests focus on **Computer Vision**, **Multi-modal Learning**, **Brain-Computer Intelligence**, and **AI4S**. Outside of my academic pursuits, I am a sports enthusiast with a particular love for **basketball**.
 <!--  这是注释
 I am Hanzhong Tan (谭寒钟), currently a Master's student specializing in Computer Science and Technology at Hubei Minzu University. My research interests mainly focus on Computer Vision, Multi-modal Learning, Brain-machine intelligence, and AI4S.
 -->
