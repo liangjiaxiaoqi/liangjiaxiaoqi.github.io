@@ -15,7 +15,7 @@ I am **Hanzhong Tan**, a Master's student at Hubei Minzu University. My research
 
 最新动态 / News
 ======
-* **[2026-03]** 论文 "Hierarchical Multi-attention Transformer with Cross-Agent for RGB-D Salient Object Detection" 被 **IEEE ICASSP 2026** 录用！
+* **[2026-03]** 论文 "Hierarchical Multi-attention Transformer with Cross-Agent for RGB-D Salient Object Detection" 被 <font color="red">IEEE ICASSP 2026</font>**IEEE ICASSP 2026** 录用！
 * **[2025-07]** 论文 "Hierarchical Enhanced Fusion Transformer (HEFT)" 发表于 **IEEE ICARM 2025**（江苏常州）。
 
 研究方向 / Research Interests
