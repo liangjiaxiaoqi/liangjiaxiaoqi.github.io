@@ -18,8 +18,8 @@ I am Hanzhong Tan (谭寒钟), currently a Master's student specializing in Comp
 
 News
 ======
-* **[2026-01]** Our paper "Multi-Modal Hierarchical Fusion with Cross-Agent for RGB-D Salient Object Detection" has been accepted by *<font color="red">IEEE ICASSP 2026</font>*!
-* **[2025-08]** Our paper "HEFT: Hierarchical Enhanced Fusion Transformer for RGB-D Salient Object Detection" was published in *<font color="red">IEEE ICARM 2025</font>* (Portsmouth, United Kingdom).
+* **[2026-01]** Our paper "Multi-Modal Hierarchical Fusion with Cross-Agent for RGB-D Salient Object Detection" has been accepted by *<font color="red">IEEE ICASSP 2026 (CCF-B)</font>*!
+* **[2025-08]** Our paper "HEFT: Hierarchical Enhanced Fusion Transformer for RGB-D Salient Object Detection" was published in *<font color="red">IEEE ICARM 2025 (CAA-A)</font>* (Portsmouth, United Kingdom).
 
 <!--  这是注释
 Research Interests
@@ -33,10 +33,10 @@ Selected Publications
 ======
 
 * **Multi-Modal Hierarchical Fusion with Cross-Agent for RGB-D Salient Object Detection** **H. Tan**, Y. Zhang, L. Zhang, etc.  
-  *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2026. (Accepted)
+  *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, CCF-B, 2026. (Accepted)
 
 * **HEFT: Hierarchical Enhanced Fusion Transformer for RGB-D Salient Object Detection** **H. Tan**, S. Wen, L. Zhu, etc.  
-  *IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)*, 2025.
+  *IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)*, CAA-A, 2025.
 
 
 <!--  这是注释
