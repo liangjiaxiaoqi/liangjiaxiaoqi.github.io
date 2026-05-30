@@ -1,4 +1,4 @@
-<!--  这是注释
+
 ---
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
@@ -55,7 +55,8 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
--->
+
+<!--  这是注释
 ---
 permalink: /
 title: "About Me"
@@ -90,3 +91,4 @@ I am **Hanzhong Tan**, a Master's student at Hubei Minzu University. My research
 
 * **Hierarchical Enhanced Fusion Transformer (HEFT) for Multi-Modal Interaction** **H. Tan**, S. Wen, etc.  
   *IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)*, 2025.
+-->
