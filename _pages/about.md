@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Hanzhong Tan**, currently a Master's student specializing in Computer Science and Technology at Hubei Minzu University. My research interests mainly focus on **Computer Vision**, **Multi-modal Learning**, and **Salient Object Detection (SOD)**.
+I am Hanzhong Tan (谭寒钟), currently a Master's student specializing in Computer Science and Technology at Hubei Minzu University. My research interests mainly focus on Computer Vision, Multi-modal Learning, Brain-machine intelligence, and AI4S.
 
 ---
 
