@@ -65,7 +65,7 @@ More info about configuring Academic Pages can be found in [the guide](https://a
 
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
