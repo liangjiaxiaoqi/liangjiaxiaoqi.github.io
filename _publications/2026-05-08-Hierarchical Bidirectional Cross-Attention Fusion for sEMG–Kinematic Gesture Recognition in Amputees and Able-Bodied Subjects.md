@@ -1,3 +1,4 @@
+
 ---
 title: "Hierarchical Bidirectional Cross-Attention Fusion for sEMG–Kinematic Gesture Recognition in Amputees and Able-Bodied Subjects"
 collection: publications
