@@ -33,7 +33,7 @@ Research Interests
 Selected Publications
 ======
 
-* **Competitive fusion in multimodal networks for enhanced salient object detection **
+* **Competitive fusion in multimodal networks for enhanced salient object detection**
   **H. Tan**, S. Wen, L. Zhang, etc.  
   *The Visual Computer*, CCF-C, 2026.
 
