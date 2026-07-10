@@ -2,7 +2,7 @@
 title: "Hierarchical Bidirectional Cross-Attention Fusion for sEMG–Kinematic Gesture Recognition in Amputees and Able-Bodied Subjects"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+#permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Authors: Chenyan Ge; Lingfeng Zhang; Tao Hu; Chunxia Mao; **Hanzhong Tan**; Haifeng Huang; Tingyan Bi; Jun Li'  # 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2026-5-8
 venue: 'SSRN'  # CCF-C
