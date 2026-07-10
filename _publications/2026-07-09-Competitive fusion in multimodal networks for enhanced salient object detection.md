@@ -7,7 +7,7 @@ excerpt: 'Authors: **Hanzhong Tan**; Shuangbing Wen; Linfeng Zhang; Jun Li; Tao 
 date: 2026-07-09
 venue: 'The Visual Computer (CCF-C, SCI-Q3)'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/2026-07-09Competitive_fusion_in_multimodal_networks_for_enhanced_salient_object_detection .pdf'
+paperurl: 'https://academicpages.github.io/files/2026-07-09Competitive_fusion_in_multimodal_networks_for_enhanced_salient_object_detection.pdf'
 bibtexurl: 'https://academicpages.github.io/files/2026-07-09-Competitive_fusion_in_multimodal_networks_for_enhanced_salient_object_detection-10.1007_s00371-026-04602-y-citation.ris'
 #citation: 'Tan, H., Wen, S., Zhang, L. et al. Competitive fusion in multimodal networks for enhanced salient object detection. Vis Comput 42, 397 (2026). https://doi.org/10.1007/s00371-026-04602-y'
 ---
