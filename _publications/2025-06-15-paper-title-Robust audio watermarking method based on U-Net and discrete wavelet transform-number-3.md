@@ -5,7 +5,7 @@ category: manuscripts
 #permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Authors: Shuangbing Wen; Qishan Zhang; **Hanzhong Tan**; Tao Hu; Jun Li'#'This paper is about the number 3. The number 4 is left for future work.'
 date: 2025-06-15
-venue: 'Journal of Cybersecurity'
+venue: 'Journal of Cybersecurity (CSCD-C)'
 #slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://liangjiaxiaoqi.github.io/files/基于U-Net和离散小波变换的鲁棒音频水印方法_文双兵.pdf'  #'https://academicpages.github.io/files/paper3.pdf'
 #citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
