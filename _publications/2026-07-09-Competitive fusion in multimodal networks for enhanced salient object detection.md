@@ -1,4 +1,3 @@
-
 ---
 title: "Competitive fusion in multimodal networks for enhanced salient object detection"
 collection: publications
