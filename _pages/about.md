@@ -20,7 +20,7 @@ News
 ======
 * **[2026-06]** Our paper "Competitive Fusion in Multi-Modal Networks for Enhanced Salient Object Detection" has been accepted by *<font color="red">The Visual Computer (CCF-C)</font>*!🎉
 * **[2026-01]** Our paper "Multi-Modal Hierarchical Fusion with Cross-Agent for RGB-D Salient Object Detection" has been accepted by *<font color="red">IEEE ICASSP 2026 (CCF-B)</font>*!🎉
-* **[2025-08]** Our paper "HEFT: Hierarchical Enhanced Fusion Transformer for RGB-D Salient Object Detection" was published in *<font color="red">IEEE ICARM 2025 (CAA-A)🎉</font>* (Portsmouth, United Kingdom).
+* **[2025-08]** Our paper "HEFT: Hierarchical Enhanced Fusion Transformer for RGB-D Salient Object Detection" was published in *<font color="red">IEEE ICARM 2025 (CAA-A)</font>* (Portsmouth, United Kingdom).🎉
 
 <!--  这是注释
 Research Interests
