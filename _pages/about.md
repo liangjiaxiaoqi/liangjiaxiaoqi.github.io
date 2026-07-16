@@ -33,15 +33,15 @@ Research Interests
 Selected Publications
 ======
 
-* **Competitive fusion in multimodal networks for enhanced salient object detection**
+* **Competitive fusion in multimodal networks for enhanced salient object detection**  
   **H. Tan**, S. Wen, L. Zhang, etc.  
   *The Visual Computer*, CCF-C, 2026.
 
-* **Multi-Modal Hierarchical Fusion with Cross-Agent for RGB-D Salient Object Detection**
+* **Multi-Modal Hierarchical Fusion with Cross-Agent for RGB-D Salient Object Detection**  
   **H. Tan**, Y. Zhang, L. Zhang, etc.  
   *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, CCF-B, 2026. <!-- (Accepted)-->
 
-* **HEFT: Hierarchical Enhanced Fusion Transformer for RGB-D Salient Object Detection**
+* **HEFT: Hierarchical Enhanced Fusion Transformer for RGB-D Salient Object Detection**  
   **H. Tan**, S. Wen, L. Zhu, etc.  
   *IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)*, CAA-A, 2025.
 
