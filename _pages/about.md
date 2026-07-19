@@ -43,7 +43,7 @@ Selected Publications
 
 * **HEFT: Hierarchical Enhanced Fusion Transformer for RGB-D Salient Object Detection**
   <br>**H. Tan**, S. Wen, L. Zhu, etc.  
-  *The IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)*, CAA-A, 2025.
+  *IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)*, CAA-A, 2025.
 
 
 <!--  这是注释
