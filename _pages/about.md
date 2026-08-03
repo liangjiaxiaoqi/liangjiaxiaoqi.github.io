@@ -18,11 +18,12 @@ I am Hanzhong Tan (谭寒钟), currently a Master's student specializing in Comp
 
 News
 ======
+* **[2026-08]** Our paper "Frequency-Gated Prompting for Enhancing Transformer-based EEG Decoding" has been accepted by *<font color="red">IEEE Journal of Biomedical and Health Informatics (SCI Q1 TOP, CCF-C, IF=7.7)</font>*!🎉
 * **[2026-06]** Our paper "Competitive Fusion in Multi-Modal Networks for Enhanced Salient Object Detection" has been accepted by *<font color="red">The Visual Computer (CCF-C)</font>*!🎉
 * **[2026-01]** Our paper "Multi-Modal Hierarchical Fusion with Cross-Agent for RGB-D Salient Object Detection" has been accepted by *<font color="red">IEEE ICASSP 2026 (CCF-B)</font>*!🎉
 * **[2025-08]** Our paper "HEFT: Hierarchical Enhanced Fusion Transformer for RGB-D Salient Object Detection" was published in *<font color="red">IEEE ICARM 2025 (CAA-A)</font>* (Portsmouth, United Kingdom).🎉
 
-<!--  这是注释
+<!--  这是注释 JBHI IF=7.7
 Research Interests
 ======
 * **Multi-modal Information Fusion:** Features fusion strategies for RGB-D and RGB-T data, particularly focusing on Transformer-based architectures and hierarchical attention mechanisms.
