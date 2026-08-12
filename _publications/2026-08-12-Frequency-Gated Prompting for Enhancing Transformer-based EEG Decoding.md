@@ -8,7 +8,7 @@ date: 2026-08-12
 venue: 'IEEE Journal of Biomedical and Health Informatics (SCI-Q1 TOP, CCF-C, IF=7.7)'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://liangjiaxiaoqi.github.io/files/2026-08-12-Frequency_Gated_Prompting_for_Enhancing_Transformer_based_EEG_Decoding.pdf'
-bibtexurl: 'https://liangjiaxiaoqi.github.io/files/2026-07-09-Competitive_fusion_in_multimodal_networks_for_enhanced_salient_object_detection-10.1007_s00371-026-04602-y-citation.ris'
+bibtexurl: 'https://liangjiaxiaoqi.github.io/files/2026-08-12-FGPT-IEEE Xplore Citation BibTeX Download 2026.8.12.23.47.56.bib'
 #citation: 'Tan, H., Wen, S., Zhang, L. et al. Competitive fusion in multimodal networks for enhanced salient object detection. Vis Comput 42, 397 (2026). https://doi.org/10.1007/s00371-026-04602-y'
 ---
 
