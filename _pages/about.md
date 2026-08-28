@@ -31,7 +31,7 @@ Selected Publications
 
 * **Multi-Modal Hierarchical Fusion with Cross-Agent for RGB-D Salient Object Detection**
   <br>**H. Tan**, Y. Zhang, L. Zhang, etc.  
-  *The 51st International Conference on Acoustics, Speech, and Signal Processing (IEEE ICASSP 2026)*, CCF-B, 2026.<!-- IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, CCF-B, 2026.--> <!-- (Accepted)-->
+  *The 51st International Conference on Acoustics, Speech, and Signal Processing (IEEE ICASSP 2026)*, CCF-B, 2026.
 
 * **HEFT: Hierarchical Enhanced Fusion Transformer for RGB-D Salient Object Detection**
   <br>**H. Tan**, S. Wen, L. Zhu, etc.  
