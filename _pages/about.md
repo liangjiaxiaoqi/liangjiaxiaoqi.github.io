@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+<!-- title: "About Me"-->
 author_profile: true
 redirect_from:
   - /about/
@@ -161,9 +161,9 @@ Honors & Awards
 </p>
 
 ---
--->
+Biography-->
 
-<h2 class="section-title"><i class="fa-solid fa-user"></i> Biography</h2>
+<h2 class="section-title"><i class="fa-solid fa-user"></i> About Me</h2>
 
 Hi, I am Hanzhong Tan (Hank), currently a Master's student majoring in Computer Science and Technology at Hubei Minzu University. I completed my undergraduate studies in Information Engineering, during which my coursework and projects primarily centered around embedded systems. My passion for Artificial Intelligence was sparked when I first worked with development boards integrated with Convolutional Neural Network (CNN) algorithms, which subsequently inspired me to pivot toward the AI field for my graduate studies.
 
