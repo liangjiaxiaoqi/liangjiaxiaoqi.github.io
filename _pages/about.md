@@ -165,9 +165,9 @@ Honors & Awards
 
 <h2 class="section-title"><i class="fa-solid fa-user"></i> Biography</h2>
 
-I am currently a Master's student majoring in **Computer Science and Technology** at Hubei Minzu University. I completed my undergraduate studies in Information Engineering, focusing on embedded systems and CNN algorithm implementations on edge devices. 
+Hi, I am Hanzhong Tan (Hank), currently a Master's student majoring in Computer Science and Technology at Hubei Minzu University. I completed my undergraduate studies in Information Engineering, during which my coursework and projects primarily centered around embedded systems. My passion for Artificial Intelligence was sparked when I first worked with development boards integrated with Convolutional Neural Network (CNN) algorithms, which subsequently inspired me to pivot toward the AI field for my graduate studies.
 
-My research primary focuses on **Multi-Modal Learning**, **Brain-Computer Intelligence (BCI)**, and **AI4S**. Outside of academia, I am a passionate sports enthusiast with a particular love for **basketball**.
+Currently, my research interests focus on **Computer Vision**, **Multi-modal Learning**, **Brain-Computer Intelligence**, and **AI4S**. Outside of my academic pursuits, I am a sports enthusiast with a particular love for **basketball**.
 
 ---
 
