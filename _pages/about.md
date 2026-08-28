@@ -7,12 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+<!-- 
 Hi, I am Hanzhong Tan (Hank), currently a Master's student majoring in Computer Science and Technology at Hubei Minzu University. I completed my undergraduate studies in Information Engineering, during which my coursework and projects primarily centered around embedded systems. My passion for Artificial Intelligence was sparked when I first worked with development boards integrated with Convolutional Neural Network (CNN) algorithms, which subsequently inspired me to pivot toward the AI field for my graduate studies.
 
 Currently, my research interests focus on **Computer Vision**, **Multi-modal Learning**, **Brain-Computer Intelligence**, and **AI4S**. Outside of my academic pursuits, I am a sports enthusiast with a particular love for **basketball**.
-<!--  这是注释
-I am Hanzhong Tan (谭寒钟), currently a Master's student specializing in Computer Science and Technology at Hubei Minzu University. My research interests mainly focus on Computer Vision, Multi-modal Learning, Brain-machine intelligence, and AI4S.
--->
 
 ---
 
@@ -23,13 +21,6 @@ News
 * **[2026-01]** Our paper "Multi-Modal Hierarchical Fusion with Cross-Agent for RGB-D Salient Object Detection" has been accepted by *<font color="red">IEEE ICASSP 2026 (CCF-B)</font>*!🎉
 * **[2025-08]** Our paper "HEFT: Hierarchical Enhanced Fusion Transformer for RGB-D Salient Object Detection" was published in *<font color="red">IEEE ICARM 2025 (CAA-A)</font>* (Portsmouth, United Kingdom).🎉
 
-<!--  这是注释 JBHI IF=7.7
-Research Interests
-======
-* **Multi-modal Information Fusion:** Features fusion strategies for RGB-D and RGB-T data, particularly focusing on Transformer-based architectures and hierarchical attention mechanisms.
-* **EEG Signal Decoding:** Brain-computer interface (BCI) research utilizing frequency-domain characteristics, with developments such as Frequency-Gated Prompting (FGPT).
-* **Scene Understanding:** Applying multi-modal collaborative representation learning and salient object detection techniques to ship navigation scene understanding.
--->
 
 Selected Publications
 ======
@@ -57,6 +48,7 @@ Honors & Awards
 
 * **National/Provincial Award in Mathematical Modeling Competition**
   <br>Applied Undergraduate Innovation & Modeling Contest, 2019.
+-->
 
 
 <!-- 引入 FontAwesome 图标库与 Academicons 学术图标库 -->
