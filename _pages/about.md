@@ -1,13 +1,12 @@
 ---
 permalink: /
-<!-- title: "About Me"-->
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-<!-- 
+<!-- title: "About Me"
 Hi, I am Hanzhong Tan (Hank), currently a Master's student majoring in Computer Science and Technology at Hubei Minzu University. I completed my undergraduate studies in Information Engineering, during which my coursework and projects primarily centered around embedded systems. My passion for Artificial Intelligence was sparked when I first worked with development boards integrated with Convolutional Neural Network (CNN) algorithms, which subsequently inspired me to pivot toward the AI field for my graduate studies.
 
 Currently, my research interests focus on **Computer Vision**, **Multi-modal Learning**, **Brain-Computer Intelligence**, and **AI4S**. Outside of my academic pursuits, I am a sports enthusiast with a particular love for **basketball**.
