@@ -59,81 +59,182 @@ Honors & Awards
   <br>Applied Undergraduate Innovation & Modeling Contest, 2019.
 
 
-Research Highlights & Impact
-======
-* **3 First-Author Academic Papers**: Published/accepted in top-tier venues including *IEEE JBHI* (IF=7.7, CCF-C), *IEEE ICASSP 2026* (CCF-B), and *The Visual Computer* (CCF-C).
-* **1 Granted National Invention Patent**: Specialized in cross-modal image fusion for abnormal behavior detection.
-* **Key Research Thrusts**: RGB-D/RGB-T Salient Object Detection, Frequency-Gated EEG Signal Decoding, and Maritime Scene Understanding.
+<!-- 引入 FontAwesome 图标库与 Academicons 学术图标库 -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+<style>
+  /* 整体色彩体系定义 */
+  :root {
+    --primary-color: #2b5876;
+    --accent-color: #4e4376;
+    --badge-ccf-b: #ff6b6b;
+    --badge-ccf-c: #4ecdc4;
+    --badge-patent: #ff9f43;
+    --bg-card: #f8f9fa;
+    --text-main: #2d3436;
+  }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    color: var(--text-main);
+    line-height: 1.6;
+  }
+
+  /* 标题与板块样式 */
+  .section-title {
+    font-weight: 700;
+    color: var(--primary-color);
+    border-bottom: 2px solid var(--primary-color);
+    padding-bottom: 5px;
+    margin-top: 35px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  /* 彩色标签 Badge 样式 */
+  .badge {
+    display: inline-block;
+    padding: 3px 8px;
+    font-size: 12px;
+    font-weight: 600;
+    color: white;
+    border-radius: 4px;
+    margin-right: 6px;
+    vertical-align: middle;
+  }
+  .badge-red { background-color: #e74c3c; }
+  .badge-blue { background-color: #3498db; }
+  .badge-green { background-color: #2ecc71; }
+  .badge-orange { background-color: #e67e22; }
+  .badge-purple { background-color: #9b59b6; }
+
+  /* 按钮标签 [Paper] [Code] */
+  .btn-link {
+    display: inline-block;
+    padding: 2px 10px;
+    font-size: 12px;
+    border: 1px solid var(--primary-color);
+    color: var(--primary-color);
+    border-radius: 12px;
+    text-decoration: none;
+    margin-right: 5px;
+    transition: all 0.2s;
+  }
+  .btn-link:hover {
+    background-color: var(--primary-color);
+    color: white;
+  }
+
+  /* 卡片化列表容器 */
+  .card-item {
+    background: var(--bg-card);
+    border-left: 4px solid var(--primary-color);
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 0 8px 8px 0;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  }
+
+  .paper-title {
+    font-weight: 600;
+    font-size: 16px;
+    color: #1a1a1a;
+  }
+  .paper-authors {
+    color: #666;
+    font-size: 14px;
+  }
+  .me {
+    font-weight: bold;
+    color: var(--primary-color);
+    text-decoration: underline;
+  }
+</style>
+
+<!-- 个人基础信息与社交图标 -->
+# Hanzhong Tan (谭寒钟)
+<p>
+  <span class="badge badge-blue"><i class="fa-solid fa-graduation-cap"></i> Master Student</span>
+  <span class="badge badge-purple"><i class="fa-solid fa-microchip"></i> Computer Vision & BCI</span>
+</p>
+
+<p>
+  <a href="mailto:your_email@domain.com" class="btn-link"><i class="fa-solid fa-envelope"></i> Email</a>
+  <a href="https://github.com/your-github" class="btn-link"><i class="fa-brands fa-github"></i> GitHub</a>
+  <a href="https://scholar.google.com" class="btn-link"><i class="ai ai-google-scholar"></i> Google Scholar</a>
+</p>
 
 ---
 
-News
-======
-* **[2026-08]** 🎉 Our paper *"Frequency-Gated Prompting for Enhancing Transformer-based EEG Decoding"* has been accepted by **<font color="red">IEEE Journal of Biomedical and Health Informatics (SCI Q1 TOP, CCF-C, IF=7.7)</font>**!
-* **[2026-06]** 🎉 Our paper *"Competitive Fusion in Multi-Modal Networks for Enhanced Salient Object Detection"* has been accepted by **<font color="red">The Visual Computer (CCF-C)</font>**!
-* **[2026-01]** 🎉 Our paper *"Multi-Modal Hierarchical Fusion with Cross-Agent for RGB-D Salient Object Detection"* has been accepted by **<font color="red">IEEE ICASSP 2026 (CCF-B)</font>**!
-* **[2025-08]** 🎉 Our paper *"HEFT: Hierarchical Enhanced Fusion Transformer for RGB-D Salient Object Detection"* was published in **<font color="red">IEEE ICARM 2025 (CAA-A)</font>** (Changzhou, China).
+<h2 class="section-title"><i class="fa-solid fa-user"></i> Biography</h2>
+
+I am currently a Master's student majoring in **Computer Science and Technology** at Hubei Minzu University. I completed my undergraduate studies in Information Engineering, focusing on embedded systems and CNN algorithm implementations on edge devices. 
+
+My research primary focuses on **Multi-Modal Learning**, **Brain-Computer Intelligence (BCI)**, and **AI4S**. Outside of academia, I am a passionate sports enthusiast with a particular love for **basketball**.
 
 ---
 
-Research Interests
-======
-* **Multi-Modal Learning & Fusion**: Advanced fusion strategies for RGB-D/RGB-T modalities, cross-attention networks, and multi-agent interaction modeling.
-* **Brain-Computer Intelligence (BCI)**: EEG decoding backbones, frequency-domain prompting mechanics (FGPT), and adaptive signal normalization.
-* **AI for Science & Vision Systems**: Scene understanding and visual perception applied to autonomous ship navigation and edge-AI environments.
+<h2 class="section-title"><i class="fa-solid fa-newspaper"></i> News</h2>
+
+* **[2026-08]** 🎉 <span class="badge badge-red">SCI Q1 TOP</span> Our paper *"Frequency-Gated Prompting for Enhancing Transformer-based EEG Decoding"* has been accepted by **IEEE JBHI** (IF=7.7)!
+* **[2026-06]** 🎉 <span class="badge badge-green">CCF-C</span> Our paper *"Competitive Fusion in Multi-Modal Networks for Enhanced Salient Object Detection"* has been accepted by **The Visual Computer**!
+* **[2026-01]** 🎉 <span class="badge badge-blue">CCF-B</span> Our paper *"Multi-Modal Hierarchical Fusion with Cross-Agent for RGB-D Salient Object Detection"* has been accepted by **IEEE ICASSP 2026**!
+* **[2025-08]** 🎉 <span class="badge badge-purple">CAA-A</span> Our paper *"HEFT: Hierarchical Enhanced Fusion Transformer for RGB-D Salient Object Detection"* was published in **IEEE ICARM 2025**.
 
 ---
 
-Selected Publications
-======
-* **Frequency-Gated Prompting for Enhancing Transformer-based EEG Decoding**
-  <br>**H. Tan**, et al.
-  <br>*IEEE Journal of Biomedical and Health Informatics (JBHI)*, SCI Q1 TOP, IF=7.7, 2026.
+<h2 class="section-title"><i class="fa-solid fa-book-bookmark"></i> Selected Publications</h2>
 
-* **Competitive Fusion in Multimodal Networks for Enhanced Salient Object Detection**
-  <br>**H. Tan**, S. Wen, L. Zhang, et al.
-  <br>*The Visual Computer*, CCF-C, 2026.
+<div class="card-item">
+  <div class="paper-title">Frequency-Gated Prompting for Enhancing Transformer-based EEG Decoding</div>
+  <div class="paper-authors"><span class="me">Hanzhong Tan</span>, et al.</div>
+  <div><em>IEEE Journal of Biomedical and Health Informatics (JBHI)</em>, 2026.</div>
+  <div style="margin-top: 8px;">
+    <span class="badge badge-red">SCI Q1 TOP</span>
+    <span class="badge badge-red">IF=7.7</span>
+    <a href="#" class="btn-link"><i class="fa-solid fa-file-pdf"></i> PDF</a>
+    <a href="#" class="btn-link"><i class="fa-brands fa-github"></i> Code</a>
+  </div>
+</div>
 
-* **Multi-Modal Hierarchical Fusion with Cross-Agent for RGB-D Salient Object Detection**
-  <br>**H. Tan**, Y. Zhang, L. Zhang, et al.
-  <br>*IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026)*, CCF-B, 2026.
+<div class="card-item">
+  <div class="paper-title">Competitive Fusion in Multimodal Networks for Enhanced Salient Object Detection</div>
+  <div class="paper-authors"><span class="me">Hanzhong Tan</span>, Shuangbing Wen, Yedong Zhang, et al.</div>
+  <div><em>The Visual Computer</em>, 2026.</div>
+  <div style="margin-top: 8px;">
+    <span class="badge badge-green">CCF-C</span>
+    <a href="#" class="btn-link"><i class="fa-solid fa-file-pdf"></i> PDF</a>
+    <a href="#" class="btn-link"><i class="fa-brands fa-github"></i> Code</a>
+  </div>
+</div>
 
-* **HEFT: Hierarchical Enhanced Fusion Transformer for RGB-D Salient Object Detection**
-  <br>**H. Tan**, S. Wen, L. Zhu, et al.
-  <br>*IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)*, CAA-A, 2025.
-
----
-
-Patents & Intellectual Property
-======
-* **National Invention Patent (Granted)**: *Method for detecting abnormal driving behavior based on cross-modal image fusion*
-  <br>Grant No.: `CN202411262320.4` | Chinese National Intellectual Property Administration (CNIPA), 2025.
-
----
-
-Honors & Awards
-======
-
-### Scholarships & Academic Honors
-* **National Scholarship for Graduate Students**, *Ministry of Education of PRC*, 2025 *(Top 0.2% nationwide)*
-* **Academic Research & Publication Excellence Award**, *Hubei Minzu University*, 2025 & 2026
-* **Outstanding Student Member Award**, *Hubei Minzu University*, 2025
-
-### Competition Awards
-* **National Award**, *National Graduate Mathematical Modeling Competition*, 2025
-* **First/Regional Award**, *National Graduate Electronic Design Contest*, 2025
-* **National Award**, *China Collegiate Computing Contest (3C)*, 2024
-* **National Award**, *National IoT Design Contest for University Students*, 2023
-* **First/Second Prize**, *Mathematical Modeling Competition for College Students*, 2019
+<div class="card-item">
+  <div class="paper-title">Multi-Modal Hierarchical Fusion with Cross-Agent for RGB-D Salient Object Detection</div>
+  <div class="paper-authors"><span class="me">Hanzhong Tan</span>, Yedong Zhang, Li Zhang, et al.</div>
+  <div><em>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026)</em>, 2026.</div>
+  <div style="margin-top: 8px;">
+    <span class="badge badge-blue">CCF-B</span>
+    <a href="#" class="btn-link"><i class="fa-solid fa-file-pdf"></i> PDF</a>
+    <a href="#" class="btn-link"><i class="fa-brands fa-github"></i> Code</a>
+  </div>
+</div>
 
 ---
 
-Academic Services & Skills
-======
-* **Journal / Conference Reviewer**: Peer reviewer for conferences and journals in Computer Vision & BCI.
-* **Technical Stack**: Python, PyTorch, C/C++, Linux, OpenCV, Embedded Systems (STM32/Jetson), VS Code + DeepSeek.
-* **Interests**: Basketball, Team Sports.
+<h2 class="section-title"><i class="fa-solid fa-award"></i> Honors & Awards</h2>
 
+<h3 style="color: var(--accent-color);"><i class="fa-solid fa-certificate"></i> Patents & Intellectual Property</h3>
+* <span class="badge badge-orange">Granted Patent</span> **National Invention Patent**: *Method for detecting abnormal driving behavior based on cross-modal image fusion* (Grant No. `CN202411262320.4`), 2025.
+
+<h3 style="color: var(--accent-color);"><i class="fa-solid fa-trophy"></i> Academic & Competition Honors</h3>
+* <span class="badge badge-red">National</span> **National Scholarship for Graduate Students** *(Top 0.2%)*, 2025
+* <span class="badge badge-blue">University</span> **Academic Research & Publication Excellence Award**, 2025 & 2026
+* <span class="badge badge-green">National</span> **National Award**, National Graduate Mathematical Modeling Competition, 2025
+* <span class="badge badge-green">National</span> **Regional 1st Prize / National Award**, National Graduate Electronic Design Contest, 2025
+* <span class="badge badge-purple">National</span> **National Award**, China Collegiate Computing Contest (3C), 2024
 
 <!--  这是注释
 ---
