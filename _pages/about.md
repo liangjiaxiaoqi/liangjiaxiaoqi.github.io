@@ -59,6 +59,82 @@ Honors & Awards
   <br>Applied Undergraduate Innovation & Modeling Contest, 2019.
 
 
+Research Highlights & Impact
+======
+* **3 First-Author Academic Papers**: Published/accepted in top-tier venues including *IEEE JBHI* (IF=7.7, CCF-C), *IEEE ICASSP 2026* (CCF-B), and *The Visual Computer* (CCF-C).
+* **1 Granted National Invention Patent**: Specialized in cross-modal image fusion for abnormal behavior detection.
+* **Key Research Thrusts**: RGB-D/RGB-T Salient Object Detection, Frequency-Gated EEG Signal Decoding, and Maritime Scene Understanding.
+
+---
+
+News
+======
+* **[2026-08]** 🎉 Our paper *"Frequency-Gated Prompting for Enhancing Transformer-based EEG Decoding"* has been accepted by **<font color="red">IEEE Journal of Biomedical and Health Informatics (SCI Q1 TOP, CCF-C, IF=7.7)</font>**!
+* **[2026-06]** 🎉 Our paper *"Competitive Fusion in Multi-Modal Networks for Enhanced Salient Object Detection"* has been accepted by **<font color="red">The Visual Computer (CCF-C)</font>**!
+* **[2026-01]** 🎉 Our paper *"Multi-Modal Hierarchical Fusion with Cross-Agent for RGB-D Salient Object Detection"* has been accepted by **<font color="red">IEEE ICASSP 2026 (CCF-B)</font>**!
+* **[2025-08]** 🎉 Our paper *"HEFT: Hierarchical Enhanced Fusion Transformer for RGB-D Salient Object Detection"* was published in **<font color="red">IEEE ICARM 2025 (CAA-A)</font>** (Changzhou, China).
+
+---
+
+Research Interests
+======
+* **Multi-Modal Learning & Fusion**: Advanced fusion strategies for RGB-D/RGB-T modalities, cross-attention networks, and multi-agent interaction modeling.
+* **Brain-Computer Intelligence (BCI)**: EEG decoding backbones, frequency-domain prompting mechanics (FGPT), and adaptive signal normalization.
+* **AI for Science & Vision Systems**: Scene understanding and visual perception applied to autonomous ship navigation and edge-AI environments.
+
+---
+
+Selected Publications
+======
+* **Frequency-Gated Prompting for Enhancing Transformer-based EEG Decoding**
+  <br>**H. Tan**, et al.
+  <br>*IEEE Journal of Biomedical and Health Informatics (JBHI)*, SCI Q1 TOP, IF=7.7, 2026.
+
+* **Competitive Fusion in Multimodal Networks for Enhanced Salient Object Detection**
+  <br>**H. Tan**, S. Wen, L. Zhang, et al.
+  <br>*The Visual Computer*, CCF-C, 2026.
+
+* **Multi-Modal Hierarchical Fusion with Cross-Agent for RGB-D Salient Object Detection**
+  <br>**H. Tan**, Y. Zhang, L. Zhang, et al.
+  <br>*IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026)*, CCF-B, 2026.
+
+* **HEFT: Hierarchical Enhanced Fusion Transformer for RGB-D Salient Object Detection**
+  <br>**H. Tan**, S. Wen, L. Zhu, et al.
+  <br>*IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)*, CAA-A, 2025.
+
+---
+
+Patents & Intellectual Property
+======
+* **National Invention Patent (Granted)**: *Method for detecting abnormal driving behavior based on cross-modal image fusion*
+  <br>Grant No.: `CN202411262320.4` | Chinese National Intellectual Property Administration (CNIPA), 2025.
+
+---
+
+Honors & Awards
+======
+
+### Scholarships & Academic Honors
+* **National Scholarship for Graduate Students**, *Ministry of Education of PRC*, 2025 *(Top 0.2% nationwide)*
+* **Academic Research & Publication Excellence Award**, *Hubei Minzu University*, 2025 & 2026
+* **Outstanding Student Member Award**, *Hubei Minzu University*, 2025
+
+### Competition Awards
+* **National Award**, *National Graduate Mathematical Modeling Competition*, 2025
+* **First/Regional Award**, *National Graduate Electronic Design Contest*, 2025
+* **National Award**, *China Collegiate Computing Contest (3C)*, 2024
+* **National Award**, *National IoT Design Contest for University Students*, 2023
+* **First/Second Prize**, *Mathematical Modeling Competition for College Students*, 2019
+
+---
+
+Academic Services & Skills
+======
+* **Journal / Conference Reviewer**: Peer reviewer for conferences and journals in Computer Vision & BCI.
+* **Technical Stack**: Python, PyTorch, C/C++, Linux, OpenCV, Embedded Systems (STM32/Jetson), VS Code + DeepSeek.
+* **Interests**: Basketball, Team Sports.
+
+
 <!--  这是注释
 ---
 permalink: /
