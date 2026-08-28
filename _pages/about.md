@@ -147,6 +147,7 @@ Honors & Awards
 </style>
 
 <!-- 个人基础信息与社交图标 -->
+<!-- 
 # Hanzhong Tan (谭寒钟)
 <p>
   <span class="badge badge-blue"><i class="fa-solid fa-graduation-cap"></i> Master Student</span>
@@ -160,6 +161,7 @@ Honors & Awards
 </p>
 
 ---
+-->
 
 <h2 class="section-title"><i class="fa-solid fa-user"></i> Biography</h2>
 
