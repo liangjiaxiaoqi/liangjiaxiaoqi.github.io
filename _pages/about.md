@@ -49,10 +49,14 @@ Selected Publications
 
 Honors & Awards
 ======
-* **National Invention Patent**, *National Intellectual Property Administration, PRC*, 2025.
-  * *Method for detecting abnormal driving behavior based on cross-modal image fusion (Grant No. CN202411262320.4)*
-* **National Scholarship / Academic Excellence Award**, *Hubei Minzu University*, 2025.
-* **First/Second Prize**, *Mathematical Modeling Competition for College Students*, 2019.
+* **National Invention Patent** (Grant No. CN202411262320.4) 
+  <br>Cross-modal Image Fusion Method for Abnormal Driving Behavior Detection, *CNIPA*, 2025.
+
+* **Academic Research & Publication Excellence Award**
+  <br>Hubei Minzu University, 2025–2026.
+
+* **National/Provincial Award in Mathematical Modeling Competition**
+  <br>Applied Undergraduate Innovation & Modeling Contest, 2019.
 
 
 <!--  这是注释
