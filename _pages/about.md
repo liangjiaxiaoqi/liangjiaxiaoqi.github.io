@@ -148,7 +148,7 @@ Honors & Awards
 
   /* 滚动容器通用样式 */
   .scrollable-container {
-    max-height: 260px; /* 设置固定最大高度，根据实际需要调整 */
+    max-height: 520px; /* 设置固定最大高度，根据实际需要调整 260px*/
     overflow-y: auto;  /* 内部内容超出时自动出现纵向滚动条 */
     padding-right: 10px; /* 留出边距，防止内容贴近滚动条 */
     border-radius: 6px;
