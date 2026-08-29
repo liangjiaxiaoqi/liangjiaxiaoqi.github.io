@@ -363,7 +363,7 @@ Currently, my research interests focus on **Computer Vision**, **Multi-modal Lea
     <li><span class="badge badge-green">University</span> <b>Graduate Education Innovation Program</b> (Principal Investigator), 2025~2026</li>
     <li style="margin-top: 5px;"><span class="badge badge-blue">Regional</span> <b>2st Prize in the Central China Regional Competition</b>, China Graduate Student Electronic Design Competition, 2025</li>
     <li style="margin-top: 5px;"><span class="badge badge-purple">National</span> <b>National 3st Prize</b>, China Graduate Student Mathematical Modeling Competition, 2024</li>
-    <li style="margin-top: 5px;"><span class="badge badge-purple">Provincial</span> <b>3st Prize, Hubei Province</b>, The 6th Global Campus Artificial Intelligence Algorithm Elite Competition, 2024</li>
+    <li style="margin-top: 5px;"><span class="badge badge-orange">Provincial</span> <b>3st Prize, Hubei Province</b>, The 6th Global Campus Artificial Intelligence Algorithm Elite Competition, 2024</li>
     <li style="margin-top: 5px;"><span class="badge badge-orange">Provincial</span> <b>3st Prize, Chongqing Municipality</b>, China College Students' Computer Design Competition, 2020</li>
     <li style="margin-top: 5px;"><span class="badge badge-blue">Regional</span> <b>2st Prize in the Central and Southwest China Region</b>, National College Student Internet of Things Design Competition, 2020</li>
     <li style="margin-top: 5px;"><span class="badge badge-purple">National</span> <b>National Award</b>, National 5G IoT Innovation Competition for College Students, 2019</li>
