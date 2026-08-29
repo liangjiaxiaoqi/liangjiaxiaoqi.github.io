@@ -198,8 +198,8 @@ Currently, my research interests focus on **Computer Vision**, **Multi-modal Lea
   <div class="paper-authors"><span class="me">Hanzhong Tan</span>, Shuangbing Wen, Lingfeng Zhang, et al.</div>
   <div class="journal-conf"><em>The Visual Computer</em>, 2026. <span class="badge badge-green">CCF-C</span> <span class="badge badge-red">SCI Q3</span> <span class="badge badge-red">IF=3.4</span></div>
   <div style="margin-top: 8px;">
-    <a href="#" class="btn-link"><i class="fa-solid fa-file-pdf"></i> PDF</a>
-    <a href="#" class="btn-link"><i class="fa-brands fa-github"></i> Code</a>
+    <a href="https://liangjiaxiaoqi.github.io/files/2026-07-09-Competitive_fusion_in_multimodal_networks_for_enhanced_salient_object_detection.pdf" class="btn-link"><i class="fa-solid fa-file-pdf"></i> PDF</a>
+    <a href="https://github.com/liangjiaxiaoqi/MC2FNet" class="btn-link"><i class="fa-brands fa-github"></i> Code</a>
   </div>
 </div>
 
@@ -208,8 +208,8 @@ Currently, my research interests focus on **Computer Vision**, **Multi-modal Lea
   <div class="paper-authors"><span class="me">Hanzhong Tan</span>, Yedong Zhang, Lingfeng Zhang, et al.</div>
   <div class="journal-conf"><em>The 51st International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</em>, 2026. <span class="badge badge-blue">CCF-B</span></div>
   <div style="margin-top: 8px;">
-    <a href="#" class="btn-link"><i class="fa-solid fa-file-pdf"></i> PDF</a>
-    <a href="#" class="btn-link"><i class="fa-brands fa-github"></i> Code</a>
+    <a href="https://liangjiaxiaoqi.github.io/files/Multi-Modal_Hierarchical_Fusion_with_Cross-Agent_for_RGB-D_Salient_Object_Detection.pdf" class="btn-link"><i class="fa-solid fa-file-pdf"></i> Paper</a>
+    <a href="https://github.com/liangjiaxiaoqi/HMaT-D" class="btn-link"><i class="fa-brands fa-github"></i> Code</a>
   </div>
 </div>
 
@@ -218,8 +218,7 @@ Currently, my research interests focus on **Computer Vision**, **Multi-modal Lea
   <div class="paper-authors"><span class="me">Hanzhong Tan</span>, Shuangbing Wen, Li Zhu, et al.</div>
   <div class="journal-conf"><em>IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)</em>, 2025. <span class="badge badge-purple">CAA-A</span></div>
   <div style="margin-top: 8px;">
-    <a href="#" class="btn-link"><i class="fa-solid fa-file-pdf"></i> PDF</a>
-    <a href="#" class="btn-link"><i class="fa-brands fa-github"></i> Code</a>
+    <a href="https://liangjiaxiaoqi.github.io/files/2-HEFT.pdf" class="btn-link"><i class="fa-solid fa-file-pdf"></i> Paper</a>
   </div>
 </div>
 
