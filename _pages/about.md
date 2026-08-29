@@ -228,6 +228,8 @@ Currently, my research interests focus on **Computer Vision**, **Multi-modal Lea
 
 <h3 style="color: var(--accent-color);"><i class="fa-solid fa-certificate"></i> Patents & Intellectual Property</h3>
 * <span class="badge badge-orange">Granted Patent</span> **National Invention Patent**: *Method for detecting abnormal driving behavior based on cross-modal image fusion* (Grant No. `CN202411262320.4`), 2025.
+* <span class="badge badge-orange">Granted Patent</span> **National Utility Model Patent**: *A sun umbrella that automatically adjusts the angle of shade* (Grant No. `CN202420634142.2`), 2025.
+* <span class="badge badge-orange">Granted Patent</span> **National Utility Model Patent**: *A Fruit Inspection and Traceability System* (Grant No. `CN202021377980.4`), 2021.
 
 <h3 style="color: var(--accent-color);"><i class="fa-solid fa-trophy"></i> Academic & Competition Honors</h3>
 * <span class="badge badge-red">National</span> **National Scholarship for Graduate Students** *(Top 0.2%)*, 2025
