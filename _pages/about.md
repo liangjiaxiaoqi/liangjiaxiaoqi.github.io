@@ -182,10 +182,11 @@ Currently, my research interests focus on **Computer Vision**, **Multi-modal Lea
 
 <div class="card-item">
   <div class="paper-title">Frequency-Gated Prompting for Enhancing Transformer-based EEG Decoding</div>
-  <div class="paper-authors"><span class="me">Hanzhong Tan</span>, et al.</div>
+  <div class="paper-authors"><span class="me">Hanzhong Tan</span>, Shuangbing Wen, Tao Hu, et al.</div>
   <div><em>IEEE Journal of Biomedical and Health Informatics (JBHI)</em>, 2026.</div>
   <div style="margin-top: 8px;">
     <span class="badge badge-red">SCI Q1 TOP</span>
+    <span class="badge badge-green">CCF-C</span>
     <span class="badge badge-red">IF=7.7</span>
     <a href="#" class="btn-link"><i class="fa-solid fa-file-pdf"></i> PDF</a>
     <a href="#" class="btn-link"><i class="fa-brands fa-github"></i> Code</a>
@@ -194,10 +195,12 @@ Currently, my research interests focus on **Computer Vision**, **Multi-modal Lea
 
 <div class="card-item">
   <div class="paper-title">Competitive Fusion in Multimodal Networks for Enhanced Salient Object Detection</div>
-  <div class="paper-authors"><span class="me">Hanzhong Tan</span>, Shuangbing Wen, Yedong Zhang, et al.</div>
+  <div class="paper-authors"><span class="me">Hanzhong Tan</span>, Shuangbing Wen, Lingfeng Zhang, et al.</div>
   <div><em>The Visual Computer</em>, 2026.</div>
   <div style="margin-top: 8px;">
     <span class="badge badge-green">CCF-C</span>
+    <span class="badge badge-red">SCI Q3</span>
+    <span class="badge badge-red">IF=3.4</span>
     <a href="#" class="btn-link"><i class="fa-solid fa-file-pdf"></i> PDF</a>
     <a href="#" class="btn-link"><i class="fa-brands fa-github"></i> Code</a>
   </div>
@@ -205,10 +208,21 @@ Currently, my research interests focus on **Computer Vision**, **Multi-modal Lea
 
 <div class="card-item">
   <div class="paper-title">Multi-Modal Hierarchical Fusion with Cross-Agent for RGB-D Salient Object Detection</div>
-  <div class="paper-authors"><span class="me">Hanzhong Tan</span>, Yedong Zhang, Li Zhang, et al.</div>
+  <div class="paper-authors"><span class="me">Hanzhong Tan</span>, Yedong Zhang, Lingfeng Zhang, et al.</div>
   <div><em>The 51st International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</em>, 2026.</div>
   <div style="margin-top: 8px;">
     <span class="badge badge-blue">CCF-B</span>
+    <a href="#" class="btn-link"><i class="fa-solid fa-file-pdf"></i> PDF</a>
+    <a href="#" class="btn-link"><i class="fa-brands fa-github"></i> Code</a>
+  </div>
+</div>
+
+<div class="card-item">
+  <div class="paper-title">HEFT: Hierarchical Enhanced Fusion Transformer for RGB-D Salient Object Detection</div>
+  <div class="paper-authors"><span class="me">Hanzhong Tan</span>, Shuangbing Wen, Li Zhu, et al.</div>
+  <div><em>IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)</em>, 2025.</div>
+  <div style="margin-top: 8px;">
+    <span class="badge badge-blue">CAA-A</span>
     <a href="#" class="btn-link"><i class="fa-solid fa-file-pdf"></i> PDF</a>
     <a href="#" class="btn-link"><i class="fa-brands fa-github"></i> Code</a>
   </div>
