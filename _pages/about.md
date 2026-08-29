@@ -220,7 +220,7 @@ Currently, my research interests focus on **Computer Vision**, **Multi-modal Lea
 <div class="card-item">
   <div class="paper-title">HEFT: Hierarchical Enhanced Fusion Transformer for RGB-D Salient Object Detection</div>
   <div class="paper-authors"><span class="me">Hanzhong Tan</span>, Shuangbing Wen, Li Zhu, et al.</div>
-  <div><em>IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)</em>, 2025.</div>
+  <div>IEEE International Conference on Advanced Robotics and Mechatronics (ICARM), 2025.</div>
   <div style="margin-top: 8px;">
     <span class="badge badge-blue">CAA-A</span>
     <a href="#" class="btn-link"><i class="fa-solid fa-file-pdf"></i> PDF</a>
