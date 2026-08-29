@@ -145,6 +145,39 @@ Honors & Awards
     color: var(--primary-color);
     text-decoration: underline;
   }
+
+  /* 滚动容器通用样式 */
+  .scrollable-container {
+    max-height: 260px; /* 设置固定最大高度，根据实际需要调整 */
+    overflow-y: auto;  /* 内部内容超出时自动出现纵向滚动条 */
+    padding-right: 10px; /* 留出边距，防止内容贴近滚动条 */
+    border-radius: 6px;
+  }
+
+  /* 自定义美化滚动条 (支持 Chrome/Safari/Edge/Opera) */
+  .scrollable-container::-webkit-scrollbar {
+    width: 6px; /* 细滚动条 */
+  }
+
+  .scrollable-container::-webkit-scrollbar-track {
+    background: #f1f1f1; /* 滚动条轨道背景色 */
+    border-radius: 4px;
+  }
+
+  .scrollable-container::-webkit-scrollbar-thumb {
+    background: #c1c1c1; /* 滚动条滑块颜色 */
+    border-radius: 4px;
+  }
+
+  .scrollable-container::-webkit-scrollbar-thumb:hover {
+    background: #a8a8a8; /* 鼠标悬停时滑块颜色 */
+  }
+
+  /* 适配 Firefox 浏览器的滚动条 */
+  .scrollable-container {
+    scrollbar-width: thin;
+    scrollbar-color: #c1c1c1 #f1f1f1;
+  }
 </style>
 
 <!-- 个人基础信息与社交图标 -->
@@ -164,6 +197,7 @@ Honors & Awards
 ---
 Biography-->
 
+<!--
 <h2 class="section-title"><i class="fa-solid fa-user"></i> About Me</h2>
 
 Hi, I am Hanzhong Tan (Hank), currently a Master's student majoring in Computer Science and Technology at Hubei Minzu University. I completed my undergraduate studies in Information Engineering, during which my coursework and projects primarily centered around embedded systems. My passion for Artificial Intelligence was sparked when I first worked with development boards integrated with Convolutional Neural Network (CNN) algorithms, which subsequently inspired me to pivot toward the AI field for my graduate studies.
@@ -232,19 +266,111 @@ Currently, my research interests focus on **Computer Vision**, **Multi-modal Lea
 * <span class="badge badge-orange">Granted Patent</span> **National Utility Model Patent**: *A Fruit Inspection and Traceability System* (Grant No. `CN202021377980.4`), 2021.
 
 <h3 style="color: var(--accent-color);"><i class="fa-solid fa-trophy"></i> Academic & Competition Honors</h3>
-<!--* <span class="badge badge-red">National</span> **National Scholarship for Graduate Students** *(Top 0.2%)*, 2025-->
 * <span class="badge badge-green">University</span> **Graduate Education Innovation Program** (Principal Investigator), 2025~2026
 * <span class="badge badge-blue">Regional</span> **2st Prize in the Central China Regional Competition**, China Graduate Student Electronic Design Competition, 2025
 * <span class="badge badge-purple">National</span> **National 3st Prize**, China Graduate Student Mathematical Modeling Competition, 2024
-<!--* <span class="badge badge-green">National</span> **Regional 1st Prize / National Award**, National Graduate Electronic Design Contest, 2025-->
 * <span class="badge badge-orange">Provincial</span> **3st Prize, Chongqing Municipality**, China College Students' Computer Design Competition, 2024
 * <span class="badge badge-blue">Regional</span> **2st Prize in the Central and Southwest China Region**, National College Student Internet of Things Design Competition, 2024
 * <span class="badge badge-purple">National</span> **National Award**, National 5G IoT Innovation Competition for College Students, 2019
-<!--*=* <span class="badge badge-purple">National</span> **National Award**, Project Approved Under the National Undergraduate Innovation Training Program, 2019-->
 * <span class="badge badge-orange">Provincial</span> **3st Prize, Chongqing Municipality**, Chongqing City Hetai Cup Microcontroller Application Design Competition, 2019
 * <span class="badge badge-orange">Provincial</span> **1st Prize/2st Prize, Chongqing Municipality**, National College Students Mathematical Modeling Competition, 2019 & 2018  
 *......*  
 * <span class="badge badge-orange">Provincial</span> **1st Prize, Chongqing Municipality**, Chongqing Innovation Methods Competition, 2018
+-->
+
+<h2 class="section-title"><i class="fa-solid fa-user"></i> About Me</h2>
+
+Hi, I am Hanzhong Tan (Hank), currently a Master's student majoring in Computer Science and Technology at Hubei Minzu University. I completed my undergraduate studies in Information Engineering, during which my coursework and projects primarily centered around embedded systems. My passion for Artificial Intelligence was sparked when I first worked with development boards integrated with Convolutional Neural Network (CNN) algorithms, which subsequently inspired me to pivot toward the AI field for my graduate studies.
+
+Currently, my research interests focus on **Computer Vision**, **Multi-modal Learning**, **Brain-Computer Intelligence**, and **AI4S**. Outside of my academic pursuits, I am a sports enthusiast with a particular love for **basketball**.
+
+---
+
+<h2 class="section-title"><i class="fa-solid fa-newspaper"></i> News</h2>
+
+<!-- News 滚动容器 -->
+<div class="scrollable-container" style="max-height: 180px;">
+  <ul style="padding-left: 20px; margin: 0;">
+    <li><b>[2026-08]</b> 🎉 Our paper <em>"Frequency-Gated Prompting for Enhancing Transformer-based EEG Decoding"</em> has been accepted by <em><font color="red">IEEE Journal of Biomedical and Health Informatics</font></em> (IF=7.7)! <span class="badge badge-red">SCI Q1 TOP</span> <span class="badge badge-green">CCF-C</span></li>
+    <li style="margin-top: 8px;"><b>[2026-06]</b> 🎉 Our paper <em>"Competitive Fusion in Multi-Modal Networks for Enhanced Salient Object Detection"</em> has been accepted by <em><font color="red">The Visual Computer</font></em>! <span class="badge badge-red">SCI Q3</span> <span class="badge badge-green">CCF-C</span></li>
+    <li style="margin-top: 8px;"><b>[2026-01]</b> 🎉 Our paper <em>"Multi-Modal Hierarchical Fusion with Cross-Agent for RGB-D Salient Object Detection"</em> has been accepted by <em><font color="red">IEEE ICASSP 2026</font></em>! <span class="badge badge-blue">CCF-B</span></li>
+    <li style="margin-top: 8px;"><b>[2025-08]</b> 🎉 Our paper <em>"HEFT: Hierarchical Enhanced Fusion Transformer for RGB-D Salient Object Detection"</em> was published in <em><font color="red">IEEE ICARM 2025</font></em>. <span class="badge badge-purple">CAA-A</span></li>
+  </ul>
+</div>
+
+---
+
+<h2 class="section-title"><i class="fa-solid fa-book-bookmark"></i> Selected Publications</h2>
+
+<!-- Publications 滚动容器 -->
+<div class="scrollable-container" style="max-height: 380px;">
+  <div class="card-item">
+    <div class="paper-title">Frequency-Gated Prompting for Enhancing Transformer-based EEG Decoding</div>
+    <div class="paper-authors"><span class="me">Hanzhong Tan</span>, Shuangbing Wen, Tao Hu, et al.</div>
+    <div class="journal-conf"><em>IEEE Journal of Biomedical and Health Informatics (JBHI)</em>, 2026. <span class="badge badge-green">CCF-C</span> <span class="badge badge-red">SCI Q1 TOP</span> <span class="badge badge-red">IF=7.7</span></div>
+    <div style="margin-top: 8px;">
+      <a href="https://liangjiaxiaoqi.github.io/files/2026-08-12-Frequency_Gated_Prompting_for_Enhancing_Transformer_based_EEG_Decoding.pdf" class="btn-link"><i class="fa-solid fa-file-pdf"></i> Paper</a>
+      <a href="https://github.com/liangjiaxiaoqi/FGPT" class="btn-link"><i class="fa-brands fa-github"></i> Code</a>
+    </div>
+  </div>
+
+  <div class="card-item">
+    <div class="paper-title">Competitive Fusion in Multimodal Networks for Enhanced Salient Object Detection</div>
+    <div class="paper-authors"><span class="me">Hanzhong Tan</span>, Shuangbing Wen, Lingfeng Zhang, et al.</div>
+    <div class="journal-conf"><em>The Visual Computer</em>, 2026. <span class="badge badge-green">CCF-C</span> <span class="badge badge-red">SCI Q3</span> <span class="badge badge-red">IF=3.4</span></div>
+    <div style="margin-top: 8px;">
+      <a href="https://liangjiaxiaoqi.github.io/files/2026-07-09-Competitive_fusion_in_multimodal_networks_for_enhanced_salient_object_detection.pdf" class="btn-link"><i class="fa-solid fa-file-pdf"></i> Paper</a>
+      <a href="https://github.com/liangjiaxiaoqi/MC2FNet" class="btn-link"><i class="fa-brands fa-github"></i> Code</a>
+    </div>
+  </div>
+
+  <div class="card-item">
+    <div class="paper-title">Multi-Modal Hierarchical Fusion with Cross-Agent for RGB-D Salient Object Detection</div>
+    <div class="paper-authors"><span class="me">Hanzhong Tan</span>, Yedong Zhang, Lingfeng Zhang, et al.</div>
+    <div class="journal-conf"><em>The 51st International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</em>, 2026. <span class="badge badge-blue">CCF-B</span></div>
+    <div style="margin-top: 8px;">
+      <a href="https://liangjiaxiaoqi.github.io/files/Multi-Modal_Hierarchical_Fusion_with_Cross-Agent_for_RGB-D_Salient_Object_Detection.pdf" class="btn-link"><i class="fa-solid fa-file-pdf"></i> Paper</a>
+      <a href="https://github.com/liangjiaxiaoqi/HMaT-D" class="btn-link"><i class="fa-brands fa-github"></i> Code</a>
+    </div>
+  </div>
+
+  <div class="card-item">
+    <div class="paper-title">HEFT: Hierarchical Enhanced Fusion Transformer for RGB-D Salient Object Detection</div>
+    <div class="paper-authors"><span class="me">Hanzhong Tan</span>, Shuangbing Wen, Li Zhu, et al.</div>
+    <div class="journal-conf"><em>IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)</em>, 2025. <span class="badge badge-purple">CAA-A</span></div>
+    <div style="margin-top: 8px;">
+      <a href="https://liangjiaxiaoqi.github.io/files/2-HEFT.pdf" class="btn-link"><i class="fa-solid fa-file-pdf"></i> Paper</a>
+    </div>
+  </div>
+</div>
+
+---
+
+<h2 class="section-title"><i class="fa-solid fa-award"></i> Honors & Awards</h2>
+
+<!-- Honors 滚动容器 -->
+<div class="scrollable-container" style="max-height: 300px;">
+  <h3 style="color: var(--accent-color); margin-top: 0;"><i class="fa-solid fa-certificate"></i> Patents & Intellectual Property</h3>
+  <ul style="padding-left: 20px;">
+    <li><span class="badge badge-orange">Granted Patent</span> <b>National Invention Patent</b>: <em>Method for detecting abnormal driving behavior based on cross-modal image fusion</em> (Grant No. <code>CN202411262320.4</code>), 2025.</li>
+    <li style="margin-top: 5px;"><span class="badge badge-orange">Granted Patent</span> <b>National Utility Model Patent</b>: <em>A sun umbrella that automatically adjusts the angle of shade</em> (Grant No. <code>CN202420634142.2</code>), 2025.</li>
+    <li style="margin-top: 5px;"><span class="badge badge-orange">Granted Patent</span> <b>National Utility Model Patent</b>: <em>A Fruit Inspection and Traceability System</em> (Grant No. <code>CN202021377980.4</code>), 2021.</li>
+  </ul>
+
+  <h3 style="color: var(--accent-color);"><i class="fa-solid fa-trophy"></i> Academic & Competition Honors</h3>
+  <ul style="padding-left: 20px;">
+    <li><span class="badge badge-green">University</span> <b>Graduate Education Innovation Program</b> (Principal Investigator), 2025~2026</li>
+    <li style="margin-top: 5px;"><span class="badge badge-blue">Regional</span> <b>2st Prize in the Central China Regional Competition</b>, China Graduate Student Electronic Design Competition, 2025</li>
+    <li style="margin-top: 5px;"><span class="badge badge-purple">National</span> <b>National 3st Prize</b>, China Graduate Student Mathematical Modeling Competition, 2024</li>
+    <li style="margin-top: 5px;"><span class="badge badge-orange">Provincial</span> <b>3st Prize, Chongqing Municipality</b>, China College Students' Computer Design Competition, 2024</li>
+    <li style="margin-top: 5px;"><span class="badge badge-blue">Regional</span> <b>2st Prize in the Central and Southwest China Region</b>, National College Student Internet of Things Design Competition, 2024</li>
+    <li style="margin-top: 5px;"><span class="badge badge-purple">National</span> <b>National Award</b>, National 5G IoT Innovation Competition for College Students, 2019</li>
+    <li style="margin-top: 5px;"><span class="badge badge-orange">Provincial</span> <b>3st Prize, Chongqing Municipality</b>, Chongqing City Hetai Cup Microcontroller Application Design Competition, 2019</li>
+    <li style="margin-top: 5px;"><span class="badge badge-orange">Provincial</span> <b>1st Prize/2st Prize, Chongqing Municipality</b>, National College Students Mathematical Modeling Competition, 2019 & 2018</li>
+    <li style="margin-top: 5px;"><span class="badge badge-orange">Provincial</span> <b>1st Prize, Chongqing Municipality</b>, Chongqing Innovation Methods Competition, 2018</li>
+  </ul>
+</div>
+
 
 <!--  这是注释
 ---
