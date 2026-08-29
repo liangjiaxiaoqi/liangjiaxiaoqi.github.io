@@ -303,7 +303,7 @@ Currently, my research interests focus on **Computer Vision**, **Multi-modal Lea
 <h2 class="section-title"><i class="fa-solid fa-book-bookmark"></i> Selected Publications</h2>
 
 <!-- Publications 滚动容器380px -->
-<div class="scrollable-container" style="max-height: 500px;">
+<div class="scrollable-container" style="max-height: 600px;">
   <div class="card-item">
     <div class="paper-title">Frequency-Gated Prompting for Enhancing Transformer-based EEG Decoding</div>
     <div class="paper-authors"><span class="me">Hanzhong Tan</span>, Shuangbing Wen, Tao Hu, et al.</div>
