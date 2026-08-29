@@ -238,7 +238,7 @@ Currently, my research interests focus on **Computer Vision**, **Multi-modal Lea
 * <span class="badge badge-green">National</span> **National 3st Prize**, China Graduate Student Mathematical Modeling Competition, 2024
 <!--* <span class="badge badge-green">National</span> **Regional 1st Prize / National Award**, National Graduate Electronic Design Contest, 2025-->
 * <span class="badge badge-purple">Provincial</span> **3st Prize at the provincial level**, China College Students' Computer Design Competition, 2024
-* <span class="badge badge-purple">National</span> **Third Prize at the provincial level**, China College Students' Computer Design Competition, 2024
+* <span class="badge badge-purple">Regional</span> **2st Prize in the Central and Southwest China Region**, National College Student Internet of Things Design Competition, 2024
 
 <!--  这是注释
 ---
