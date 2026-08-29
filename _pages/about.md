@@ -138,7 +138,7 @@ Honors & Awards
     font-size: 14px;
   }
   .journal-conf {
-    font-size: 14px;
+    font-size: 15px;
   }
   .me {
     font-weight: bold;
