@@ -288,8 +288,8 @@ Currently, my research interests focus on **Computer Vision**, **Multi-modal Lea
 
 <h2 class="section-title"><i class="fa-solid fa-newspaper"></i> News</h2>
 
-<!-- News 滚动容器 -->
-<div class="scrollable-container" style="max-height: 180px;">
+<!-- News 滚动容器 180px-->
+<div class="scrollable-container" style="max-height: 360px;">
   <ul style="padding-left: 20px; margin: 0;">
     <li><b>[2026-08]</b> 🎉 Our paper <em>"Frequency-Gated Prompting for Enhancing Transformer-based EEG Decoding"</em> has been accepted by <em><font color="red">IEEE Journal of Biomedical and Health Informatics</font></em> (IF=7.7)! <span class="badge badge-red">SCI Q1 TOP</span> <span class="badge badge-green">CCF-C</span></li>
     <li style="margin-top: 8px;"><b>[2026-06]</b> 🎉 Our paper <em>"Competitive Fusion in Multi-Modal Networks for Enhanced Salient Object Detection"</em> has been accepted by <em><font color="red">The Visual Computer</font></em>! <span class="badge badge-red">SCI Q3</span> <span class="badge badge-green">CCF-C</span></li>
