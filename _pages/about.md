@@ -188,7 +188,7 @@ Currently, my research interests focus on **Computer Vision**, **Multi-modal Lea
   <div class="paper-authors"><span class="me">Hanzhong Tan</span>, Shuangbing Wen, Tao Hu, et al.</div>
   <div class="journal-conf"><em>IEEE Journal of Biomedical and Health Informatics (JBHI)</em>, 2026. <span class="badge badge-green">CCF-C</span> <span class="badge badge-red">SCI Q1 TOP</span> <span class="badge badge-red">IF=7.7</span></div>
   <div style="margin-top: 8px;">
-    <a href="https://liangjiaxiaoqi.github.io/files/2026-08-12-Frequency_Gated_Prompting_for_Enhancing_Transformer_based_EEG_Decoding.pdf" class="btn-link"><i class="fa-solid fa-file-pdf"></i> PDF</a>
+    <a href="https://liangjiaxiaoqi.github.io/files/2026-08-12-Frequency_Gated_Prompting_for_Enhancing_Transformer_based_EEG_Decoding.pdf" class="btn-link"><i class="fa-solid fa-file-pdf"></i> Paper</a>
     <a href="https://github.com/liangjiaxiaoqi/FGPT" class="btn-link"><i class="fa-brands fa-github"></i> Code</a>
   </div>
 </div>
@@ -198,7 +198,7 @@ Currently, my research interests focus on **Computer Vision**, **Multi-modal Lea
   <div class="paper-authors"><span class="me">Hanzhong Tan</span>, Shuangbing Wen, Lingfeng Zhang, et al.</div>
   <div class="journal-conf"><em>The Visual Computer</em>, 2026. <span class="badge badge-green">CCF-C</span> <span class="badge badge-red">SCI Q3</span> <span class="badge badge-red">IF=3.4</span></div>
   <div style="margin-top: 8px;">
-    <a href="https://liangjiaxiaoqi.github.io/files/2026-07-09-Competitive_fusion_in_multimodal_networks_for_enhanced_salient_object_detection.pdf" class="btn-link"><i class="fa-solid fa-file-pdf"></i> PDF</a>
+    <a href="https://liangjiaxiaoqi.github.io/files/2026-07-09-Competitive_fusion_in_multimodal_networks_for_enhanced_salient_object_detection.pdf" class="btn-link"><i class="fa-solid fa-file-pdf"></i> Paper</a>
     <a href="https://github.com/liangjiaxiaoqi/MC2FNet" class="btn-link"><i class="fa-brands fa-github"></i> Code</a>
   </div>
 </div>
@@ -234,9 +234,11 @@ Currently, my research interests focus on **Computer Vision**, **Multi-modal Lea
 <h3 style="color: var(--accent-color);"><i class="fa-solid fa-trophy"></i> Academic & Competition Honors</h3>
 <!--* <span class="badge badge-red">National</span> **National Scholarship for Graduate Students** *(Top 0.2%)*, 2025-->
 * <span class="badge badge-blue">University</span> **Graduate Education Innovation Program** (Principal Investigator), 2025~2026
-* <span class="badge badge-green">National</span> **National Award**, National Graduate Mathematical Modeling Competition, 2025
-* <span class="badge badge-green">National</span> **Regional 1st Prize / National Award**, National Graduate Electronic Design Contest, 2025
-* <span class="badge badge-purple">National</span> **National Award**, China Collegiate Computing Contest (3C), 2024
+* <span class="badge badge-green">Regional</span> **2st Prize in the Central China Regional Competition**, China Graduate Student Electronic Design Competition, 2025
+* <span class="badge badge-green">National</span> **National 3st Prize**, China Graduate Student Mathematical Modeling Competition, 2024
+<!--* <span class="badge badge-green">National</span> **Regional 1st Prize / National Award**, National Graduate Electronic Design Contest, 2025-->
+* <span class="badge badge-purple">Provincial</span> **3st Prize at the provincial level**, China College Students' Computer Design Competition, 2024
+* <span class="badge badge-purple">National</span> **Third Prize at the provincial level**, China College Students' Computer Design Competition, 2024
 
 <!--  这是注释
 ---
