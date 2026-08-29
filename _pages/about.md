@@ -349,7 +349,7 @@ Currently, my research interests focus on **Computer Vision**, **Multi-modal Lea
 <h2 class="section-title"><i class="fa-solid fa-award"></i> Honors & Awards</h2>
 
 <!-- Honors 滚动容器 -->
-<div class="scrollable-container" style="max-height: 300px;">
+<div class="scrollable-container" style="max-height: 400px;">
   <h3 style="color: var(--accent-color); margin-top: 0;"><i class="fa-solid fa-certificate"></i> Patents & Intellectual Property</h3>
   <ul style="padding-left: 20px;">
     <li><span class="badge badge-orange">Granted Patent</span> <b>National Invention Patent</b>: <em>Method for detecting abnormal driving behavior based on cross-modal image fusion</em> (Grant No. <code>CN202411262320.4</code>), 2025.</li>
