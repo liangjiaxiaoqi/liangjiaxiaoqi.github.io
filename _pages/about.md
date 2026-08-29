@@ -87,8 +87,8 @@ Honors & Awards
   /* 彩色标签 Badge 样式 */
   .badge {
     display: inline-block;
-    padding: 1px 8px;
-    font-size: 10px;
+    padding: 2px 7px;
+    font-size: 11px;
     font-weight: 600;
     color: white;
     border-radius: 4px;
