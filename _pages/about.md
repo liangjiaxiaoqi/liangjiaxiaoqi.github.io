@@ -233,18 +233,18 @@ Currently, my research interests focus on **Computer Vision**, **Multi-modal Lea
 
 <h3 style="color: var(--accent-color);"><i class="fa-solid fa-trophy"></i> Academic & Competition Honors</h3>
 <!--* <span class="badge badge-red">National</span> **National Scholarship for Graduate Students** *(Top 0.2%)*, 2025-->
-* <span class="badge badge-blue">University</span> **Graduate Education Innovation Program** (Principal Investigator), 2025~2026
-* <span class="badge badge-green">Regional</span> **2st Prize in the Central China Regional Competition**, China Graduate Student Electronic Design Competition, 2025
-* <span class="badge badge-green">National</span> **National 3st Prize**, China Graduate Student Mathematical Modeling Competition, 2024
+* <span class="badge badge-green">University</span> **Graduate Education Innovation Program** (Principal Investigator), 2025~2026
+* <span class="badge badge-blue">Regional</span> **2st Prize in the Central China Regional Competition**, China Graduate Student Electronic Design Competition, 2025
+* <span class="badge badge-purple">National</span> **National 3st Prize**, China Graduate Student Mathematical Modeling Competition, 2024
 <!--* <span class="badge badge-green">National</span> **Regional 1st Prize / National Award**, National Graduate Electronic Design Contest, 2025-->
-* <span class="badge badge-purple">Provincial</span> **3st Prize, Chongqing Municipality**, China College Students' Computer Design Competition, 2024
-* <span class="badge badge-purple">Regional</span> **2st Prize in the Central and Southwest China Region**, National College Student Internet of Things Design Competition, 2024
-* <span class="badge badge-green">National</span> **National Award**, National 5G IoT Innovation Competition for College Students, 2019
-<!--*=* <span class="badge badge-green">National</span> **National Award**, Project Approved Under the National Undergraduate Innovation Training Program, 2019-->
-* <span class="badge badge-purple">Provincial</span> **3st Prize, Chongqing Municipality**, Chongqing City Hetai Cup Microcontroller Application Design Competition, 2019
-* <span class="badge badge-purple">Provincial</span> **1st Prize/2st Prize, Chongqing Municipality**, National College Students Mathematical Modeling Competition, 2019 & 2018  
+* <span class="badge badge-orange">Provincial</span> **3st Prize, Chongqing Municipality**, China College Students' Computer Design Competition, 2024
+* <span class="badge badge-blue">Regional</span> **2st Prize in the Central and Southwest China Region**, National College Student Internet of Things Design Competition, 2024
+* <span class="badge badge-purple">National</span> **National Award**, National 5G IoT Innovation Competition for College Students, 2019
+<!--*=* <span class="badge badge-purple">National</span> **National Award**, Project Approved Under the National Undergraduate Innovation Training Program, 2019-->
+* <span class="badge badge-orange">Provincial</span> **3st Prize, Chongqing Municipality**, Chongqing City Hetai Cup Microcontroller Application Design Competition, 2019
+* <span class="badge badge-orange">Provincial</span> **1st Prize/2st Prize, Chongqing Municipality**, National College Students Mathematical Modeling Competition, 2019 & 2018  
 *......*  
-* <span class="badge badge-purple">Provincial</span> **1st Prize, Chongqing Municipality**, Chongqing Innovation Methods Competition, 2018
+* <span class="badge badge-orange">Provincial</span> **1st Prize, Chongqing Municipality**, Chongqing Innovation Methods Competition, 2018
 
 <!--  这是注释
 ---
