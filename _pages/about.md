@@ -185,8 +185,8 @@ Currently, my research interests focus on **Computer Vision**, **Multi-modal Lea
   <div class="paper-authors"><span class="me">Hanzhong Tan</span>, Shuangbing Wen, Tao Hu, et al.</div>
   <div><em>IEEE Journal of Biomedical and Health Informatics (JBHI)</em>, 2026.</div>
   <div style="margin-top: 8px;">
-    <span class="badge badge-red">SCI Q1 TOP</span>
     <span class="badge badge-green">CCF-C</span>
+    <span class="badge badge-red">SCI Q1 TOP</span>
     <span class="badge badge-red">IF=7.7</span>
     <a href="#" class="btn-link"><i class="fa-solid fa-file-pdf"></i> PDF</a>
     <a href="#" class="btn-link"><i class="fa-brands fa-github"></i> Code</a>
