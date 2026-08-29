@@ -232,8 +232,8 @@ Currently, my research interests focus on **Computer Vision**, **Multi-modal Lea
 * <span class="badge badge-orange">Granted Patent</span> **National Utility Model Patent**: *A Fruit Inspection and Traceability System* (Grant No. `CN202021377980.4`), 2021.
 
 <h3 style="color: var(--accent-color);"><i class="fa-solid fa-trophy"></i> Academic & Competition Honors</h3>
-* <span class="badge badge-red">National</span> **National Scholarship for Graduate Students** *(Top 0.2%)*, 2025
-* <span class="badge badge-blue">University</span> **Academic Research & Publication Excellence Award**, 2025 & 2026
+<!--* <span class="badge badge-red">National</span> **National Scholarship for Graduate Students** *(Top 0.2%)*, 2025-->
+* <span class="badge badge-blue">University</span> **Graduate Education Innovation Program** (Principal Investigator), 2025~2026
 * <span class="badge badge-green">National</span> **National Award**, National Graduate Mathematical Modeling Competition, 2025
 * <span class="badge badge-green">National</span> **Regional 1st Prize / National Award**, National Graduate Electronic Design Contest, 2025
 * <span class="badge badge-purple">National</span> **National Award**, China Collegiate Computing Contest (3C), 2024
