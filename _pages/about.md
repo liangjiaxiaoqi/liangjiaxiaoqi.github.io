@@ -290,11 +290,11 @@ Currently, my research interests focus on **Computer Vision**, **Multi-modal Lea
 <h2 class="section-title"><i class="fa-solid fa-newspaper"></i> News</h2>
 
 <!-- News 滚动容器 180px-->
-<div class="scrollable-container" style="max-height: 360px;">
+<div class="scrollable-container" style="max-height: 400px;">
   <ul style="padding-left: 20px; margin: 0;">
     <li><b>[2026-08]</b> 🎉 Our paper <em>"Frequency-Gated Prompting for Enhancing Transformer-based EEG Decoding"</em> has been accepted by <em><font color="red">IEEE Journal of Biomedical and Health Informatics</font></em> (IF=7.7)! <span class="badge badge-red">SCI Q1 TOP</span> <span class="badge badge-green">CCF-C</span></li>
     <li style="margin-top: 8px;"><b>[2026-06]</b> 🎉 Our paper <em>"Competitive Fusion in Multi-Modal Networks for Enhanced Salient Object Detection"</em> has been accepted by <em><font color="red">The Visual Computer</font></em>! <span class="badge badge-red">SCI Q3</span> <span class="badge badge-green">CCF-C</span></li>
-    <li style="margin-top: 8px;"><b>[2026-06]</b> 🎉 Congratulations! A three-peat. Our team won the championship in the <em>"Graduation Cup"</em> basketball competition, and this is already the third time we have received this honor during our master's studies.🏆</li>
+    <li style="margin-top: 8px;"><b>[2026-06]</b> 🎉 Congratulations! A three-peat.🏆 Our team won the championship in the <em>"Graduation Cup"</em> basketball competition, and this is already the third time we have received this honor during our master's studies.🏀</li>
     <li style="margin-top: 8px;"><b>[2026-01]</b> 🎉 Our paper <em>"Multi-Modal Hierarchical Fusion with Cross-Agent for RGB-D Salient Object Detection"</em> has been accepted by <em><font color="red">IEEE ICASSP 2026</font></em>! <span class="badge badge-blue">CCF-B</span></li>
     <li style="margin-top: 8px;"><b>[2025-08]</b> 🎉 Our paper <em>"HEFT: Hierarchical Enhanced Fusion Transformer for RGB-D Salient Object Detection"</em> was published in <em><font color="red">IEEE ICARM 2025</font></em>. <span class="badge badge-purple">CAA-A</span></li>
   </ul>
