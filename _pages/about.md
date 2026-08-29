@@ -4,6 +4,7 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
+<!--
 ---
 
 <!-- title: "About Me"
@@ -48,7 +49,6 @@ Honors & Awards
 * **National/Provincial Award in Mathematical Modeling Competition**
   <br>Applied Undergraduate Innovation & Modeling Contest, 2019.
 -->
-
 
 <!-- 引入 FontAwesome 图标库与 Academicons 学术图标库 -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
