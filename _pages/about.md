@@ -1,7 +1,5 @@
-<!--
 ---
 permalink: /
-title: "About Me"
 author_profile: true
 redirect_from:
   - /about/
@@ -174,8 +172,8 @@ Currently, my research interests focus on **Computer Vision**, **Multi-modal Lea
 
 <h2 class="section-title"><i class="fa-solid fa-newspaper"></i> News</h2>
 
-* **[2026-08]** 🎉 <span class="badge badge-red">SCI Q1 TOP</span> Our paper *"Frequency-Gated Prompting for Enhancing Transformer-based EEG Decoding"* has been accepted by *<font color="red">IEEE Journal of Biomedical and Health Informatics</font>* (IF=7.7)!
-* **[2026-06]** 🎉 <span class="badge badge-green">CCF-C</span> Our paper *"Competitive Fusion in Multi-Modal Networks for Enhanced Salient Object Detection"* has been accepted by *<font color="red">The Visual Computer</font>*!
+* **[2026-08]** 🎉 <span class="badge badge-red">SCI Q1 TOP</span> <span class="badge badge-green">CCF-C</span> Our paper *"Frequency-Gated Prompting for Enhancing Transformer-based EEG Decoding"* has been accepted by *<font color="red">IEEE Journal of Biomedical and Health Informatics</font>* (IF=7.7)!
+* **[2026-06]** 🎉 <span class="badge badge-red">SCI Q3</span> <span class="badge badge-green">CCF-C</span> Our paper *"Competitive Fusion in Multi-Modal Networks for Enhanced Salient Object Detection"* has been accepted by *<font color="red">The Visual Computer</font>*!
 * **[2026-01]** 🎉 <span class="badge badge-blue">CCF-B</span> Our paper *"Multi-Modal Hierarchical Fusion with Cross-Agent for RGB-D Salient Object Detection"* has been accepted by *<font color="red">IEEE ICASSP 2026</font>*!
 * **[2025-08]** 🎉 <span class="badge badge-purple">CAA-A</span> Our paper *"HEFT: Hierarchical Enhanced Fusion Transformer for RGB-D Salient Object Detection"* was published in *<font color="red">IEEE ICARM 2025</font>*.
 
