@@ -130,7 +130,7 @@ Honors & Awards
 
   .paper-title {
     font-weight: 600;
-    font-size: 18px;
+    font-size: 19px;
     color: #1a1a1a;
   }
   .paper-authors {
