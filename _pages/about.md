@@ -206,7 +206,7 @@ Currently, my research interests focus on **Computer Vision**, **Multi-modal Lea
 <div class="card-item">
   <div class="paper-title">Multi-Modal Hierarchical Fusion with Cross-Agent for RGB-D Salient Object Detection</div>
   <div class="paper-authors"><span class="me">Hanzhong Tan</span>, Yedong Zhang, Li Zhang, et al.</div>
-  <div><em>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026)</em>, 2026.</div>
+  <div><em>The 51st International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</em>, 2026.</div>
   <div style="margin-top: 8px;">
     <span class="badge badge-blue">CCF-B</span>
     <a href="#" class="btn-link"><i class="fa-solid fa-file-pdf"></i> PDF</a>
