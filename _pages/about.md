@@ -242,7 +242,7 @@ Currently, my research interests focus on **Computer Vision**, **Multi-modal Lea
 * <span class="badge badge-green">National</span> **National Award**, National 5G IoT Innovation Competition for College Students, 2019
 * <span class="badge badge-purple">Provincial</span> **3st Prize, Chongqing Municipality**, Chongqing City Hetai Cup Microcontroller Application Design Competition, 2019
 * <span class="badge badge-purple">Provincial</span> **1st Prize/2st Prize, Chongqing Municipality**, National College Students Mathematical Modeling Competition, 2019 & 2018  
-......  
+*......*  
 * <span class="badge badge-purple">Provincial</span> **1st Prize, Chongqing Municipality**, Chongqing Innovation Methods Competition, 2018
 
 <!--  这是注释
