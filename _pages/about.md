@@ -379,6 +379,7 @@ Currently, my research interests focus on **Computer Vision**, **Multi-modal Lea
 
 
 ---
+
 <!-- 服务 -->
 <h2 class="section-title"><i class="fa-solid fa-briefcase"></i> Services</h2>
 
@@ -390,20 +391,14 @@ Currently, my research interests focus on **Computer Vision**, **Multi-modal Lea
   <i class="fa-solid fa-book"></i> Journals
 </h4>
 <ul style="padding-left: 20px; margin: 0;">
-  <li>
-    <span class="badge badge-blue">Journal</span>
-    <b>Multimedia Systems</b> — Reviewer
-  </li>
+  <li>Multimedia Systems</li>
 </ul>
 
 <h4 style="color: var(--primary-color); margin: 12px 0 6px;">
   <i class="fa-solid fa-users"></i> Conferences
 </h4>
 <ul style="padding-left: 20px; margin: 0;">
-  <li>
-    <span class="badge badge-purple">Conference</span>
-    <b>IEEE ICASSP 2027</b> — Reviewer
-  </li>
+  <li>IEEE ICASSP 2027</li>
 </ul>
 
 
