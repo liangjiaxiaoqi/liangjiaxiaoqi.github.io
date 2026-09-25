@@ -384,26 +384,25 @@ Currently, my research interests focus on **Computer Vision**, **Multi-modal Lea
 <h2 class="section-title"><i class="fa-solid fa-briefcase"></i> Services</h2>
 
 <div style="padding-left: 15px;">
-  <h3 style="color: var(--accent-color); margin-top: 0; margin-bottom: 10px;">
+  <h3 style="color: var(--accent-color); margin-top: 0; margin-bottom: 10px; font-size: 1.2rem;">
     <i class="fa-solid fa-clipboard-check"></i> Reviewer
   </h3>
   
   <div style="padding-left: 20px;">
-    <h4 style="color: var(--primary-color); margin: 10px 0 6px;">
+    <h4 style="color: var(--primary-color); margin: 10px 0 6px; font-size: 1.05rem;">
       <i class="fa-solid fa-book"></i> Journals
     </h4>
-    <ul style="padding-left: 20px; margin: 0;">
+    <ul style="padding-left: 20px; margin: 0; font-size: 0.95rem;">
       <li>Multimedia Systems</li>
     </ul>
-    <h4 style="color: var(--primary-color); margin: 15px 0 6px;">
+    <h4 style="color: var(--primary-color); margin: 15px 0 6px; font-size: 1.05rem;">
       <i class="fa-solid fa-users"></i> Conferences
     </h4>
-    <ul style="padding-left: 20px; margin: 0;">
+    <ul style="padding-left: 20px; margin: 0; font-size: 0.95rem;">
       <li>IEEE ICASSP 2027</li>
     </ul>
   </div>
 </div>
-
 
 
 
