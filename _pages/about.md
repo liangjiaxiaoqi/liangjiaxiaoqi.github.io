@@ -393,13 +393,13 @@ Currently, my research interests focus on **Computer Vision**, **Multi-modal Lea
       <i class="fa-solid fa-book"></i> Journals
     </h4>
     <ul style="padding-left: 20px; margin: 0; font-size: 0.95rem;">
-      <li><em>Multimedia Systems</em>em></li>
+      <li><em>Multimedia Systems</em></li>
     </ul>
     <h4 style="color: var(--primary-color); margin: 15px 0 6px; font-size: 1.05rem;">
       <i class="fa-solid fa-users"></i> Conferences
     </h4>
     <ul style="padding-left: 20px; margin: 0; font-size: 0.95rem;">
-      <li><em>IEEE ICASSP 2027</em>em></li>
+      <li><em>IEEE ICASSP 2027</em></li>
     </ul>
   </div>
 </div>
